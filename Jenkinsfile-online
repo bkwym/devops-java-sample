@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'dockerwymcom'
         GITHUB_ACCOUNT = '759184489@qq.com'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
